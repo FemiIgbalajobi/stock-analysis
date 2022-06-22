@@ -1,0 +1,23 @@
+# All Stocks Analysis Refactored Code
+
+## Overview of Project
+# Having helped Steve to iterate and determine performance year over year for his parents stock. 
+# He is concerned about the time it takes to complete the iterations and results. 
+# The refactored code is rearranged for efficiency and timing that will show him 
+# he can deplore this towards a much more larger dataset.
+
+## Results
+# The runtime on the refactored code for both years were better.
+# For 2017, 1.164 seconds was improved to 1.125 seconds
+# For 2018, 1.156 seconds was improved to 1.085 seconds
+# ENPH performed very well in both years whilst others were 
+# below previous year performance
+# Except RUN that made a great jump in 2018
+
+### Summary
+# Refactoring the code improves performance generally whilst also 
+# improving the understanding of the developer. 
+# Advantage of refactoring the code is to improve runtime and also 
+# understanding in general about being a developer and also team member
+
+
